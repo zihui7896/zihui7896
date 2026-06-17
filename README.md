@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm zihui7896
+# Hi, I'm zihui
 
 Welcome to my GitHub profile. I enjoy building useful things with code, learning new technologies, and improving small ideas step by step.
 
