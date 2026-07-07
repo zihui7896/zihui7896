@@ -24,11 +24,6 @@ Welcome to my GitHub profile. I enjoy building useful things with code, learning
 - Practicing by building small projects and improving existing code.
 - Recording useful ideas, snippets, and development experience.
 
-## GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihui7896&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</div>
 
 ## Contributions
 
